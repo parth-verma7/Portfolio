@@ -22,7 +22,7 @@ with col2:
     st.write("B-Tech : Computer Science and Business '25")
     st.markdown("[Linkedin](https://www.linkedin.com/in/parth-verma-226007228/) - Let's Connect")
     st.markdown("[Github](https://github.com/parth-verma7) - Let's contribute")
-    st.markdown("[Twitter](https://twitter.com/v_parth7) - Let's Follow")
+    st.markdown("[Twitter](https://twitter.com/v_parth7) - Let's Explore")
 
 
 
